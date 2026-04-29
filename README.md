@@ -13,11 +13,13 @@ The data files are downloaded automatically by the notebook into a local `data/`
 
 ## How to Run
 
+This project was developed and tested with **Python 3.12**.
+
 1. Clone this repository and `cd` into it.
 2. (Recommended) create and activate a virtual environment:
 
    ```bash
-   python3 -m venv .venv
+   python -m venv .venv
    source .venv/bin/activate
    ```
 
